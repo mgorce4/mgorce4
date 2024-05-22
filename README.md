@@ -1,6 +1,6 @@
 # Hi, I’m toast :)
 ## Computer science student, art enjoyer and junior graphic dev
-* Pronous: He/they
+* Pronouns: He/they
 * INFP
 ### My projects
 [Game for two](https://github.com/mgorce4/gamefor2.git)
