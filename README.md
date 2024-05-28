@@ -26,25 +26,19 @@ Being a video game lover since I started playing them around two I started learn
 * construct2
 
 ### Languages and Tools
-* unity
-* python
-* java
-* javaFX
-* html/css
-* C
-* C++
-* C#
-* git
-* linux
-* my SQL
-* postgre SQL
-* blender
-* photoshop
-* affinity
-* adobe
-* procreate
-* excel
-* Maple18
+| languages | **tools** |
+| :---: | :---: |
+| python | git |
+| java | unity |
+| javaFX | blender |
+| html/css | photoshop |
+| C | affinity |
+| C++ | adobe |
+| C# | procreate |
+| linux | excel |
+| my SQL | Maple18 |
+| Postgre SQL |
+
 
 ### How to contact me:
 * [Instagram](https://www.instagram.com/grc._.max?igsh=MXI2c2EwNXNhZWt6NQ%3D%3D&utm_source=qr) : grc._.max
