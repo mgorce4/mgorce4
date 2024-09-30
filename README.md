@@ -37,7 +37,7 @@ Being a video game lover since I started playing them around two I started learn
 | C# | procreate |
 | linux | excel |
 | my SQL | Maple18 |
-| Postgre SQL |
+| Postgre SQL | R |
 
 
 ### How to contact me:
