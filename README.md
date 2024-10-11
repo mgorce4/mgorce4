@@ -11,7 +11,7 @@
 
 [Scrabble game developpement](https://github.com/mgorce4/scrabble.git)
 ----------------------------------------------------------------------
-* __Explanations:__ As a school projects we are developping a scrabble game on a java terminal for the first versions and to the next ones tranfer it on the graphic side after.
+* __Explanations:__ As a school projects we are developping a scrabble game on a java terminal for the first versions and to the next ones transfer it on the graphic side after.
 *  __Languages :__ Java, JavaFX
 
 ### Diplomas and certificates
