@@ -3,7 +3,7 @@
 * Pronouns: He/they
 * INFP
 ### My projects
-[Game for two](https://github.com/mgorce4/gamefor2.git)
+[Game for two](https://github.com/mgorce4/sae-1.02.git)
 -------------------------------------------------------
 *  __Explanations:__ The aim of this developpement was to learn basic python use making an "app" lauching in the computer terminal where two people can play preprogrammed basic games like the so known tic tac toe, the substraction game and even the connect four game. It does possess scores rating and pseudo inputs.
 *  __Language used:__ Python.
