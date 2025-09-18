@@ -39,11 +39,13 @@ Being a video game lover since I started playing them around two I started learn
 | my SQL | Maple18 |
 | Postgre SQL | R |
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgorce4&layout=compact&theme=tokyonight)  
+
 
 ### How to contact me:
 * [Instagram](https://www.instagram.com/grc._.max?igsh=MXI2c2EwNXNhZWt6NQ%3D%3D&utm_source=qr) : grc._.max
 * Discord: snor_lax13
-* [Linkedin](https://fr.linkedin.com/in/max-gorce-b547782a1/fr) : Max Gorce
+* [Linkedin](https://fr.linkedin.com/in/max-gorce/fr) : Max Gorce
 
   
 ## Thank you :)
