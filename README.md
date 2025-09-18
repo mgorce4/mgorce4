@@ -9,13 +9,13 @@
 *  __Language used:__ Python.
 
 
-[Scrabble game developpement](https://github.com/mgorce4/scrabble.git)
+[Latice game developpement](https://github.com/mgorce4/latice.git)
 ----------------------------------------------------------------------
-* __Explanations:__ As a school projects we are developping a scrabble game on a java terminal for the first versions and to the next ones transfer it on the graphic side after.
+* __Explanations:__ As a school projects we are developping a Latice game on a java terminal for the first versions and to the next ones transfer it on the graphic side with java FX and scene Builder
 *  __Languages :__ Java, JavaFX
 
 ### Diplomas and certificates
-* __French Bachalauréat(2023)__ with the specialities maths, physics and Humanities Literatture & Philosophy(1ère) with the Option Internationale Britannique
+* __French Baccalauréat(2023)__ with the specialities maths, physics and Humanities Literatture & Philosophy(1ère) with the Option Internationale Britannique
 * __Pix certification__ 803 points
 
 ### Game developpement and design
