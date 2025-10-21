@@ -1,5 +1,5 @@
 # Hi, I’m toast :)
-## Computer science student, art enjoyer and junior fullsatck dev
+## Computer science student, art enjoyer and junior fullstack dev
 * Pronouns: He/they
 * INFP
 ### My projects
