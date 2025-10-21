@@ -1,5 +1,5 @@
 # Hi, I’m toast :)
-## Computer science student, art enjoyer and junior graphic dev
+## Computer science student, art enjoyer and junior fullsatck dev
 * Pronouns: He/they
 * INFP
 ### My projects
@@ -11,7 +11,7 @@
 
 [Latice game developpement](https://github.com/mgorce4/latice.git)
 ----------------------------------------------------------------------
-* __Explanations:__ As a school projects we are developping a Latice game on a java terminal for the first versions and to the next ones transfer it on the graphic side with java FX and scene Builder
+* __Explanations:__ As a school projects we are developping a Latice game on a java terminal for the first versions and to the next ones transfer it on the graphic side with java FX and scene Builder. I lead my team of junior developpers to the final version
 *  __Languages :__ Java, JavaFX
 
 ### Diplomas and certificates
